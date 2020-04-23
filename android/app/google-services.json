@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "578490576541",
+    "firebase_url": "https://clogin-737e3.firebaseio.com",
+    "project_id": "clogin-737e3",
+    "storage_bucket": "clogin-737e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578490576541:android:5d6f4d091bc509e50d2e74",
+        "android_client_info": {
+          "package_name": "com.clogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578490576541-1v9cn5h5vf605asl9h1u6ak47s0592r6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clogin",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "578490576541-9c7m64k0qth1mne518u4pebe6g5kuks6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFXjSjbPfiG1D-BfskAETWp5NCXaPdgUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578490576541-9c7m64k0qth1mne518u4pebe6g5kuks6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
